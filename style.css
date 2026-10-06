@@ -1,0 +1,31 @@
+body{
+background-image: url(./img/showcase.jpg)
+}
+    
+h1{
+color: yellow;
+background-color: blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+
+div{
+    background-color: grey;
+    border: 2px solid black
+    padding:10px;
+    margin:10px;
+}
+
+h2{
+    text-align:center ;
+}
+
+.sidfot{
+    background-color: transparent;
+    background-image: url("./img/logo-html-css-js.png");
+    height: 200px;
+    width: 60%;
+    background-repeat: no-repeat;
+    margin-left: 150px;
+}
